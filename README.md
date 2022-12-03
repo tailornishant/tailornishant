@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tailornishant
-- 👀 I’m working on Data Related Projects
+- 👀 Understanding the Data to solve the problems
 
 
 <!---
